@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Walid MENGHOUR </h1>
-<h3 align="center">Student at USTHB, ALGERIA🌟.</h3>
+<h3 align="center">Cyber Security Engineer and Web Developer from ALGERIA🌟.</h3>
 
 <br>
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I am presently in the process of acquiring knowledge in web development as well as exploring various techniques in cybersecurity.
 
 - 📫 How to reach me **walidmenghour@gmail.com**
 
